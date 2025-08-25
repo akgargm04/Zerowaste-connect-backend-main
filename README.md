@@ -53,5 +53,5 @@ This repository contains the **backend RESTful API**, built with:
 
 ## Author
 
-**Dhanvi Hegde**  
+**AKASH GARG**  
 
