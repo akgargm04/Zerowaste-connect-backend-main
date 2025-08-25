@@ -1,5 +1,4 @@
-# Zerowaste-connect-backend-main
-♻️ ZeroWaste Connect – A backend API built with Node.js, Express, and MongoDB to connect food donors with NGOs, reduce food waste, and enable real-time resource sharing with JWT authentication, role-based access, and secure CRUD operations.
+
 # ♻️ ZeroWaste Connect – Backend
 Backend API for ZeroWaste Connect – a social impact platform that connects food donors with NGOs to reduce food waste. Built with Node.js, Express.js, and MongoDB using modular architecture, JWT authentication, bcrypt password hashing and role-based access control.
 
